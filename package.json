@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-seline",
   "description": "Gatsby plugin to add Seline to a Gatsby site",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": "Miguel Martin <mail@miguelangelmartin.me>",
   "license": "MIT",
   "repository": {
