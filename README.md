@@ -13,15 +13,8 @@ plugins: [
   {
     resolve: `gatsby-plugin-seline`,
     options: {
-      includeInDevelopment: false,
-      delayTimeout: 0
+      dataToken: "your token"
     },
   },
 ]
 ```
-
-## Configuration
-
-- `includeInDevelopment` - Optional. Defaults to `false`
-- `delayTimeout` - Optional. Number of milliseconds to wait before loading the script. Defaults to `0`
-
